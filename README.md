@@ -27,3 +27,9 @@ Ce projet vise à automatiser la détection de bâtiments endommagés après une
 ---
 
 ## ⚙️ Environnement
+
+torch
+torchvision
+scikit-learn
+matplotlib
+pandas
